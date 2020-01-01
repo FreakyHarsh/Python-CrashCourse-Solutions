@@ -15,7 +15,7 @@ fav_number = {
     "Nayan": 23,
     "Fahim": 45,
     "Sufiya": 7,
-    "Pratik": 77
+    "Pratik": 77,
 }
 
 for i in fav_number:
@@ -33,7 +33,7 @@ jargons = {
     'Static': 'Types checked before run-time',
     'Dynamic': 'Types checked on the fly, druing execution',
     'instance-attribute': 'Variables that are unique to objects i.e defined inside a constructor',
-    'class-attribute': 'Variables that are common to all objects and belong to a class'
+    'class-attribute': 'Variables that are common to all objects and belong to a class',
 }
 
 for term in jargons:
