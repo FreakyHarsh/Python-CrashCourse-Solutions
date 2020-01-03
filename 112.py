@@ -53,6 +53,7 @@ for info in Pets:
     print(f"Pet Owner: {info.get('owner')}")
     print("--------------------")
 
+seperation()
 # 6-9
 favourite_places = {
     "bob": "upvan",
@@ -63,6 +64,7 @@ favourite_places = {
 for person, fplace in favourite_places.items():
     print(f"{person} => {fplace}")
 
+seperation()
 # 6-10
 fav_numbers = {
     "Yusuf": [22, 34],
@@ -77,6 +79,7 @@ for name, fav_no in fav_numbers.items():
     for i in fav_no:
         print(i)
 
+seperation()
 # 6-11
 cities = {
     'mumbai': {
